@@ -1,0 +1,24 @@
+{
+  "name": "i3-mock-server",
+  "version": "0.0.1",
+  "description": "Mock the server/daemon behavior of i3 window manager. Useful for automated testing of IPC client code.",
+  "main": "src/i3MockServer.js",
+  "scripts": {
+    "start": "src/i3MockServer.js"
+  },
+  "homepage": "https://github.com/ctemplin/i3-mock-server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctemplin/i3-mock-server.git"
+  },
+  "keywords": [
+    "i3",
+    "i3wm",
+    "development",
+    "testing"
+  ],
+  "author": "Chris Templin <ctemplin@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
